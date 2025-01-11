@@ -13,5 +13,7 @@ Simple C++ console card game - Academic Project
 3.  The player will select a card by typing an integer, with cards in player's hand being numbered from 1 upwards.
 4.  Whichever player has the larger card value will win the current round. The winner will receive points equal to the sum of the two cards played.
      a. Ex. If computer played "orange:6" and player played "black:9", the player would win and be awarded 39 points.
+     b. The only exception to the above metric will be if one of the players plays the "tiger:10" card. In this case, that player is awarded 50 points, and the game ends.
+5. Once all cards have been played, the final scores will be shown, and the game ends.
    
    
