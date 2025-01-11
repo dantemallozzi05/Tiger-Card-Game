@@ -1,6 +1,11 @@
 # Tiger-Card-Game
 Simple C++ console card game - Academic Project
 
+--------------------------------------------------
+
+
+RULES
+
 1. Player Starts with a hand of 1-15 cards at random. Hand size depends on how many rounds the player chooses at the start. Cards are organized as follows:
      a. 4 suits: Purple, Orange, Black, & Tiger
      b. Each suit has a unique ranking system (15 purple cards ranked 1-15, 10 orange cards ranked 1-10, 5 black cards ranked 6-10, and Tiger with rank 10).
